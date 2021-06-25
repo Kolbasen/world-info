@@ -1,0 +1,68 @@
+{
+	"coronaInfo": {
+		"totalCases": {
+			"northAmerica": 40455580,
+			"europe": 47676118,
+			"asia": 55101696,
+			"southAmerica": 32213263,
+			"africa": 5366889,
+			"oceania": 72889
+		},
+		"newCases": {
+			"northAmerica": 7107,
+			"europe": 26854,
+			"asia": 91058,
+			"southAmerica": 2430,
+			"africa": 3162,
+			"oceania": 233
+		},
+		"totalDeath": {
+			"northAmerica": 915007,
+			"europe": 1097356,
+			"asia": 778941,
+			"southAmerica": 985842,
+			"africa": 140103,
+			"oceania": 1273
+		},
+		"newDeath": {
+			"northAmerica": 270,
+			"europe": 818,
+			"asia": 1374,
+			"southAmerica": 85,
+			"africa": 63,
+			"oceania": 1
+		},
+		"totalRecovered": {
+			"northAmerica": 33887222,
+			"europe": 45190001,
+			"asia": 52466825,
+			"southAmerica": 29182503,
+			"africa": 4716758,
+			"oceania": 68491
+		},
+		"newRecovered": {
+			"northAmerica": 3027,
+			"europe": 27018,
+			"asia": 70818,
+			"southAmerica": 2036,
+			"africa": 3870,
+			"oceania": 29
+		},
+		"activeCases": {
+			"northAmerica": 5653351,
+			"europe": 1388761,
+			"asia": 1855930,
+			"southAmerica": 2044918,
+			"africa": 510028,
+			"oceania": 3125
+		},
+		"criticalCases": {
+			"northAmerica": 10972,
+			"europe": 7766,
+			"asia": 26339,
+			"southAmerica": 31279,
+			"africa": 4588,
+			"oceania": 10
+		}
+	}
+}
